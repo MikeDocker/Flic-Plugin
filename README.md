@@ -64,5 +64,6 @@ In my finished plugin I decided to use **execute.sh** to call another shell scri
 Plugin for Flic for Mac to execute an arbitrary shell script located outside the plugins directory.
 
 <p align="center">
-![Screenshot of the ExecuteShellScript Plugin](https://github.com/MikeDocker/Flic-Plugin/blob/master/screenshot.png?raw=true)
+<!-- ![Screenshot of the ExecuteShellScript Plugin](screenshot.png) -->
+<img src="screenshot.png" alt="Screenshot of the ExecuteShellScript Plugin">
 </p>
