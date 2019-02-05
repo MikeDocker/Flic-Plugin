@@ -1,0 +1,13 @@
+{
+	"pluginName": "ExecuteShellScript",
+	"pluginDescription": "Execute an arbitrary shell script",
+	"pluginReadMore": "This action lets you execute an arbitrary shell script stored anywhere on the computer running the Flic for Mac app. \n\nN.B. You will need to alter the path in execute.sh and make sure the file it points to is executable with the command\n\n chmod +x filename\n\nThe file execute.sh contains further notes and troubleshooting tips.",
+	"protocolVersion": 1,
+	"actions":
+	[
+		{
+			"actionName": "Execute Shell Script",
+			"fileName": "execute.sh"
+		}
+	]
+}
